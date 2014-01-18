@@ -1,0 +1,3 @@
+Hello I am exercise 17 read file. 
+I have information, important information that is critical to your well being.
+Please copy me so I don't get lost and evaluate at a later date.
